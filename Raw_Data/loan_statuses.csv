@@ -1,0 +1,4 @@
+LoanStatusID,StatusName
+1,Paid Off
+2,Overdue
+3,Active
